@@ -1,0 +1,18 @@
+================================================================================
+INSTITUTO SUPERIOR TECNOLÓGICO VERTIENTE SUR - CARGA TABLERO METABASE
+PROGRAMA: GD05_carga_tablero.py
+================================================================================
+Motor de Base de Datos conectado: Base de Datos Relacional Analítica (SQLite local: peti_tablero.db)
+
+Tablas cargadas exitosamente para el Tablero de Línea Base:
+  1. 'servicios'     : 10 registros cargados desde GD01_catalogo_servicios.csv
+  2. 'ejes_gd'       : 23 registros cargados desde GD03_ejes.csv
+  3. 'cumplimiento'  : 7 registros cargados desde NO03_matriz_cumplimiento.csv
+  4. 'capacidad'     : 8 registros cargados desde MG03_capacidad.csv
+
+Configuración de origen de datos en Metabase:
+  • Tipo: PostgreSQL (o SQLite según despliegue)
+  • Host: host.docker.internal / 127.0.0.1
+  • Puerto: 5433 | Base: peti | Usuario: peti
+  • URL de acceso al Tablero: http://127.0.0.1:3001/dashboard/linea-base-gobierno-digital
+================================================================================

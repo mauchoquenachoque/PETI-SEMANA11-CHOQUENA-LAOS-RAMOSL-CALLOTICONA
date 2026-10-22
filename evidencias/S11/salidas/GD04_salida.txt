@@ -1,0 +1,35 @@
+================================================================================
+INSTITUTO SUPERIOR TECNOLÓGICO VERTIENTE SUR - EVALUACIÓN DE MADUREZ GD
+REPORTE GD04: DIAGNÓSTICO DE LOS 8 EJES Y DETERMINACIÓN DE LÍNEA BASE
+================================================================================
+Total de indicadores evaluados: 23
+Nivel de Madurez Global de Gobierno Digital: 1.17 de 5.00
+Clasificación Institucional: NIVEL 1 · INICIAL / AD-HOC (Vulnerable y Reactivo)
+Diagnóstico: Procesos informales, ausencia de controles automatizados, alta vulnerabilidad operacional y desarticulación técnica.
+
+1. PUNTUACIÓN DE MADUREZ POR CADA UNO DE LOS 8 EJES:
+Eje de Gobierno Digital    Puntaje Promedio   Nivel Entero   Estado Cualitativo
+---------------------------------------------------------------------------
+1. Gobernanza              1.33               Nivel 1        Incipiente
+2. Servicios               1.33               Nivel 1        Incipiente
+3. Interoperabilidad       1.00               Nivel 1        Crítico / Inicial
+4. Seguridad digital       1.00               Nivel 1        Crítico / Inicial
+5. Datos                   1.00               Nivel 1        Crítico / Inicial
+6. Identidad digital       1.33               Nivel 1        Incipiente
+7. Talento                 1.00               Nivel 1        Crítico / Inicial
+8. Infraestructura         1.33               Nivel 1        Incipiente
+---------------------------------------------------------------------------
+
+2. IDENTIFICACIÓN DE INDICADORES SIN LÍNEA BASE (4 DETECTADOS):
+   'Sin línea base no puede fijarse meta ni demostrarse avance.'
+----------------------------------------------------------------------------------------
+Eje                Indicador Sin Línea Base                      Proyecto de Instrumentación Obligatorio
+----------------------------------------------------------------------------------------
+2. Servicios       Satisfacción del usuario con los servicios    INST-01: Mesa de Ayuda Omnicanal y Evaluación Automatizada CSAT/NPS
+5. Datos           % de decisiones estratégicas sustentadas en   INST-02: Implementación de Almacén de Datos Institucional y BI Académico
+8. Infraestructura Disponibilidad efectiva de sistemas crítico   INST-03: Despliegue de Sistema de Monitoreo Proactivo de Servicios y Uptime
+8. Infraestructura Monitoreo proactivo de capacidad y ancho de   INST-04: Instrumentación de Telemetría de Redes y Gestión de Capacidad WAN/LAN
+----------------------------------------------------------------------------------------
+Dictamen: Los 4 indicadores representan el punto de partida ciego de la institución.
+Los proyectos de instrumentación correspondientes tienen prioridad absoluta en el PETI.
+================================================================================

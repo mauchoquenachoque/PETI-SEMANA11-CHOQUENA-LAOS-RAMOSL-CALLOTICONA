@@ -1,0 +1,9 @@
+id,Proceso COBIT 2019,Dominio,Capacidad actual (0-5),Capacidad objetivo (0-5),Brecha de Capacidad,Justificación de la Brecha
+PR-01,EDM01 Asegurar el marco de gobierno,"EDM (Evaluar, Dirigir, Monitor)",1,3,2,Comité de TI inactivo; formalizar reuniones periódicas y alineamiento estratégico.
+PR-02,APO13 Gestionar la seguridad,"APO (Alinear, Planear, Organizar)",0,3,3,Inexistencia de SGSI y políticas técnicas; urge mitigar riesgo de alteración de notas.
+PR-03,BAI06 Gestionar cambios de TI,"BAI (Construir, Adquirir, Implantar)",1,3,2,Cambios sin comité formal ni plan de rollback; solo se registran incidentes fallidos.
+PR-04,DSS01 Gestionar operaciones,"DSS (Entregar, Servir, Soporte)",1,3,2,Moodle administrado informalmente sin SLA; estandarizar administración de servidores.
+PR-05,DSS02 Gestionar incidentes y peticiones,"DSS (Entregar, Servir, Soporte)",1,4,3,Mesa de ayuda en Excel con 125 tickets abiertos crónicos; migrar a plataforma ITSM.
+PR-06,DSS03 Gestionar problemas,"DSS (Entregar, Servir, Soporte)",0,3,3,Problemas recurrentes (22 caídas de servidor y 11 caídas de internet) no se analizan a causa raíz.
+PR-07,DSS05 Gestionar servicios de seguridad,"DSS (Entregar, Servir, Soporte)",1,4,3,Sin MFA en sistema de notas ni control de contraseñas; urge identidad digital unificada.
+PR-08,MEA01 Supervisar y evaluar el desempeño,"MEA (Monitorizar, Evaluar, Valorar)",0,3,3,"TI no mide satisfacción, disponibilidad ni SLAs de proveedores; urge tablero analítico."

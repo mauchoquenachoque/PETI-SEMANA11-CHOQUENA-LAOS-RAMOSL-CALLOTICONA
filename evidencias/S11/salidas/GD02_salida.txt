@@ -1,0 +1,32 @@
+================================================================================
+INSTITUTO SUPERIOR TECNOLÓGICO VERTIENTE SUR - AUDITORÍA DE GOBIERNO DIGITAL
+REPORTE GD02: ANÁLISIS DEL CATÁLOGO DE SERVICIOS Y NIVELES DE DIGITALIZACIÓN
+================================================================================
+Total de servicios catalogados: 10
+Volumen transaccional anual auditado: 231,309 atenciones/año
+
+1. DIAGNÓSTICO DE DIGITALIZACIÓN (NIVEL 0 A 5):
+   • Nivel medio simple actual:       1.20 de 5.00
+   • Nivel medio ponderado actual:    2.31 de 5.00
+   • Nivel medio simple objetivo:     3.90 de 5.00
+   • Nivel medio ponderado objetivo:  4.00 de 5.00
+   --> Brecha de digitalización global ponderada: 1.69 puntos
+
+2. PRUEBA DEL PRINCIPIO DE UNA SOLA VEZ (ONCE-ONLY PRINCIPLE):
+   • Total de documentos solicitados a usuarios:        26
+   • Documentos solicitados que YA POSEE la institución: 17
+   • Índice de redundancia documental institucional:    65.38 %
+   --> Dictamen: INEFICIENCIA CRÍTICA. Casi 2 de cada 3 requisitos exigidos
+       ya constan en los registros académicos, contables o legajos del instituto.
+
+3. RANKING DE SERVICIOS POR BRECHA PONDERADA (TOP 5 DE MAYOR IMPACTO):
+ID     Servicio                               Volumen    Act   Obj   Brecha Pond    % Impacto
+----------------------------------------------------------------------------------------
+S-04   Acceso al aula virtual y entrega de    129,600    3     4     129,600        33.13 %
+S-03   Pago de pensiones y emisión de compr   32,400     1     4     97,200         24.85 %
+S-02   Registro y publicación de evaluacion   45,360     2     4     90,720         23.19 %
+S-09   Préstamo y consulta de recursos bibl   8,500      1     4     25,500         6.52  %
+S-01   Matrícula académica semestral          6,480      1     4     19,440         4.97  %
+----------------------------------------------------------------------------------------
+Top 5 concentra el 92.66% del esfuerzo de transformación digital.
+================================================================================
