@@ -117,14 +117,8 @@ python 06_gobierno_digital/GD02_analisis_servicios.py
 # 2. Diagnóstico de madurez por eje y generación del radar GD_madurez.png
 python 06_gobierno_digital/GD04_madurez.py
 
-# 3. Carga automatizada a base de datos analítica
+# 3. Carga automatizada a base de datos analítica hacia Metabase
 python 06_gobierno_digital/GD05_carga_tablero.py
-
-# 4. Generación de las tarjetas visuales de Metabase y dashboard completo
-python generar_visualizaciones_metabase.py
-
-# 5. Compilación del informe Word final
-python construir_word_final.py
 ```
 
 ### 4.2 Despliegue de Docker para PostgreSQL y Metabase
